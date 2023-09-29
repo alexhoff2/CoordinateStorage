@@ -1,0 +1,3 @@
+/Users/alexhoff/CLionProjects/GPSCoordinateProgram/cmake-build-debug/CMakeFiles/GPSCoordinateProgram.dir
+/Users/alexhoff/CLionProjects/GPSCoordinateProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexhoff/CLionProjects/GPSCoordinateProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
